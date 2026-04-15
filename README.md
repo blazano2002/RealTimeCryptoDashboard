@@ -16,9 +16,6 @@ Streams every BTC/USDT trade from Binance, stores it in TimescaleDB, and renders
 
 <br/>
 
-> **Replace this line with a screenshot:**  
-> `![Dashboard screenshot](./screenshot.png)`
-
 </div>
 
 ---
